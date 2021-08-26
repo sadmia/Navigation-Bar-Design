@@ -1,2 +1,1 @@
-# Navigation-Bar-Design
-Navigation Bar Design HTML, CSS &amp; JavaScript
+Navigation Bar Design Live View Link : https://sadmia.github.io/Navigation-Bar-Design/
